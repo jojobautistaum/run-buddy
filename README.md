@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Jojo Bautista
 
-### ©️2021 Run Buddy
+### ©️2021 Run Buddy, Inc
